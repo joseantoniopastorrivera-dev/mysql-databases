@@ -1,8 +1,8 @@
-Bases de Datos MySQL - 1º DAM
+# 🗄️ Bases de Datos MySQL - 1º DAM
 
 Repositorio dedicado a las prácticas, ejercicios, Unidades de Trabajo (UT) y proyectos desarrollados con MySQL dentro del módulo de Bases de Datos de 1º de DAM (Desarrollo de Aplicaciones Multiplataforma).
 
-📁 Estructura del Repositorio
+## 📁 Estructura del Repositorio
 
 El contenido se organiza de manera modular por unidades y bloques de aprendizaje oficiales:
 - `ut01-introduccion-a-las-bases-de-datos/` : Conceptos iniciales, arquitectura de sistemas gestores y teoría fundamental de bases de datos.
@@ -13,12 +13,12 @@ El contenido se organiza de manera modular por unidades y bloques de aprendizaje
 - `ut06-programacion-de-bases-de-datos/` : Programación procedural en MySQL, creación de procedimientos almacenados, funciones, estructuras de control (IF, CASE, bucles), cursores, gestión de errores y triggers.
 - `examenes-ut05-y-ut06/` : Simulacros de examen integrales y modelos prácticos (reservas de vuelos y butacas, transacciones concurrentes y triggers).
 
-🛠️ Entorno y Tecnologías
+## 🛠️ Entorno y Tecnologías
 
 - SGBD: MySQL / MySQL Workbench
 - Herramientas de prueba online: SQLiteOnline / DB-Fiddle / OneCompiler
 - Control de Versiones: Git / GitHub / GitHub Desktop
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Autor: José Antonio Pastor Rivera (joseantoniopastorrivera-creator)
+Autor: José Antonio Pastor Rivera (joseantoniopastorrivera-dev)
